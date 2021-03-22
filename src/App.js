@@ -1,13 +1,13 @@
-import './App.css';
+import "./App.css";
+import { Header } from "./Header";
+import { List } from "./List";
+import { data as listItems } from "./_data";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </header>
+      <Header />
+      <List items={listItems} />
     </div>
   );
 }
