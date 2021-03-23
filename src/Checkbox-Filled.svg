@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Checkbox</title>
+    <defs>
+        <path d="M8.91166146,13.1894219 C8.44327604,13.6578073 7.68499479,13.6578073 7.21780729,13.1894219 L5.37780729,11.3506198 C4.91061979,10.8822344 4.91061979,10.1239531 5.37780729,9.65556771 C5.84619271,9.18838021 6.60447396,9.18838021 7.07166146,9.65556771 L8.06473437,10.6486406 L12.094526,6.61884896 C12.5617135,6.15046354 13.3199948,6.15046354 13.7883802,6.61884896 C14.2567656,7.08603646 14.2567656,7.84431771 13.7883802,8.31270313 L8.91166146,13.1894219 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="List/Item/Checkbox-||-Radio" transform="translate(-201.000000, -10.000000)">
+            <g id="Checkbox" transform="translate(201.000000, 10.000000)">
+                <rect id="Rectangle" stroke="#578EFC" stroke-width="1.5" fill="#578EFC" x="0.75" y="0.75" width="18.5" height="18.5" rx="3"></rect>
+                <g id="Icon" transform="translate(0.833333, 0.833333)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
