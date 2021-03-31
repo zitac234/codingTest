@@ -4,8 +4,7 @@
 }
 .line{
   height: 4vh;
-  margin-top: 2vh;
-  border-bottom: 1px solid gray;
+  margin-top: 3vh;
 }
 .checkbox{
   margin-left: 80%;
@@ -13,5 +12,4 @@
 }
 .state{
   margin-left: 2vh;
-  margin-top: 1vh;
 }

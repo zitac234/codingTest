@@ -6,10 +6,10 @@ export function List(props) {
     <div className="list">
       {props.items.map((item) => (
         <Fragment key={item}>
-          <div className='line'>
-            <div className='state'>{item}</div><div className='checkbox'><Checkbox/></div><br />
+          <div className='state'>
+          {item} <div className='checkbox'><Checkbox/></div><br />
           {/* You also have <Checkbox selected={false} /> */}
-          </div>
+       
           </Fragment>
       ))}
     </div>

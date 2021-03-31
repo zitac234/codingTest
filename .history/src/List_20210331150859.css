@@ -1,0 +1,9 @@
+.list {
+  flex: 1;
+  overflow: auto;
+}
+.state{
+  height: 7vh;
+  margin: 2vh 0vh  0vh 2vh;
+}
+.checkbox

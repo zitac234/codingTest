@@ -5,6 +5,7 @@
 .line{
   height: 4vh;
   margin-top: 2vh;
+
   border-bottom: 1px solid gray;
 }
 .checkbox{

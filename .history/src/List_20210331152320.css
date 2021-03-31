@@ -1,0 +1,11 @@
+.list {
+  flex: 1;
+  overflow: auto;
+}
+.line{
+  height: 7vh;
+}
+.checkbox{
+  margin-left: 80%;
+  margin-top: -2vh;
+}

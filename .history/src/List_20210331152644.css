@@ -3,15 +3,14 @@
   overflow: auto;
 }
 .line{
-  height: 4vh;
-  margin-top: 2vh;
+  height: 3vh;
+  /* margin-top: 2vh; */
   border-bottom: 1px solid gray;
 }
 .checkbox{
   margin-left: 80%;
-  margin-top: -2vh;
+  margin-top: -3vh;
 }
 .state{
   margin-left: 2vh;
-  margin-top: 1vh;
 }
